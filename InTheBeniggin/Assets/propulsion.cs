@@ -1,6 +1,8 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class propulsion : MonoBehaviour
 {
@@ -10,10 +12,10 @@ public class propulsion : MonoBehaviour
     [SerializeField]
     private float rotation;
 
-    static float deadZoneUp = 8; 
-    static float deadZoneDown = -8; 
-    static float deadZoneRight = 14;
-    static float deadZoneLeft = -14;
+    static float deadZoneUp = 5; 
+    static float deadZoneDown = -5; 
+    static float deadZoneRight = 9;
+    static float deadZoneLeft = -9;
 
     public GameObject polygon;
 
@@ -48,4 +50,13 @@ public class propulsion : MonoBehaviour
 
         }
     }
+
+    void OnCollisionEnter2D(Collision2D col)
+{
+    if (col.gameObject.name.Equals("Laser(Clone)")) {
+    Debug.Log("Hit!");
+    Destroy(gameObject);
+    SceneManager.LoadScene(2);
+        }
+  }
 }
