@@ -12,7 +12,11 @@ You'll use arrows to move in each level, you are supposed to avoid different ene
 
 You are always guided by your space ship, Its name? GIP42! The ironical, goofy and also the only one character, an AI that handles all the space ship and makes sure everything works perfectly while you are on adventures. 
 
-![gip42](https://user-images.githubusercontent.com/113536050/228963083-400e0414-3260-4bdd-846d-510de609857f.png)
+![gip42](https://user-images.githubusercontent.com/113536050/228963083-400e0414-3260-4bdd-846d-510de609857f.png) 
+
 ![Polygon 1](https://user-images.githubusercontent.com/113536050/228963099-9d7c5a9a-e867-4936-b7be-5f9e7d2e2a61.png)
+
+![Group 3](https://user-images.githubusercontent.com/113536050/228963589-5c24eb60-7b32-4008-a7da-bc0d966cd7cb.png)
+
 
 GAME IS STILL UNDER DEVELOPMENT, IT'S NOT PLAYABLE IN ITS CURRENT STATE!
