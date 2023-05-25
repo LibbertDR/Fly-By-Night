@@ -19,4 +19,4 @@ You are always guided by your space ship, Its name? GIP42! The ironical, goofy a
 ![Group 3](https://user-images.githubusercontent.com/113536050/228963589-5c24eb60-7b32-4008-a7da-bc0d966cd7cb.png)
 
 
-GAME IS STILL UNDER DEVELOPMENT, IT'S NOT PLAYABLE IN ITS CURRENT STATE!
+
